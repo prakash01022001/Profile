@@ -20,7 +20,7 @@ body,.main{
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
-    background-color: hsla(0, 0%, 24%, 0.911);
+    background-color:  hsla(0, 0%, 24%, 0.911);
     padding: 1.5rem;
 }
 .profile{
@@ -71,7 +71,7 @@ body,.main{
     border-radius: 10px;
     border-color: aliceblue snow;  
 
-    background-color:  hsl(0, 1%, 30%);
+    background-color:   hsl(0, 1%, 15%);
    
 }
 .social-links button:hover{
